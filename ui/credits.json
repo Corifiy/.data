@@ -1,0 +1,25 @@
+{
+	"$schema": "./credits.schema.json",
+	"version": 1,
+	"sections": [
+		{
+			"id": "team",
+			"title": "Team",
+			"order": "joinDate",
+			"members": [
+				{ "name": "Tector" },
+				{ "name": "Andre" },
+				{ "name": "Zylox" },
+				{ "name": "Josh" }
+			]
+		},
+		{
+			"id": "specialThanks",
+			"title": "Special Thanks",
+			"members": [
+				{ "name": "Project164" },
+				{ "name": "Brulle" }
+			]
+		}
+	]
+}
