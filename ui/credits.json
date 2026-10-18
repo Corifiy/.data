@@ -3,14 +3,27 @@
 	"version": 1,
 	"sections": [
 		{
+			"id": "founder",
+			"title": "Founder",
+			"members": [
+				{ "name": "Tector" }
+			]
+		},
+		{
 			"id": "team",
 			"title": "Team",
 			"order": "joinDate",
 			"members": [
-				{ "name": "Tector" },
 				{ "name": "Andre" },
-				{ "name": "Zylox" },
 				{ "name": "Josh" }
+			]
+		},
+		{
+			"id": "pastContributors",
+			"title": "Past Contributors",
+			"order": "joinDate",
+			"members": [
+				{ "name": "Zylox" }
 			]
 		},
 		{
