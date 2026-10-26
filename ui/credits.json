@@ -3,17 +3,11 @@
 	"version": 1,
 	"sections": [
 		{
-			"id": "founder",
-			"title": "Founder",
-			"members": [
-				{ "name": "Tector" }
-			]
-		},
-		{
 			"id": "team",
 			"title": "Team",
 			"order": "joinDate",
 			"members": [
+				{ "name": "Tector" },
 				{ "name": "Andre" }
 			]
 		},
