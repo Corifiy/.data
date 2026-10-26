@@ -14,8 +14,7 @@
 			"title": "Team",
 			"order": "joinDate",
 			"members": [
-				{ "name": "Andre" },
-				{ "name": "Josh" }
+				{ "name": "Andre" }
 			]
 		},
 		{
@@ -23,7 +22,8 @@
 			"title": "Past Contributors",
 			"order": "joinDate",
 			"members": [
-				{ "name": "Zylox" }
+				{ "name": "Zylox" },
+				{ "name": "Josh" }
 			]
 		},
 		{
