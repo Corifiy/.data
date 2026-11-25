@@ -13,18 +13,12 @@
 		},
 		{
 			"id": "pastContributors",
-			"title": "Past Contributors",
+			"title": "Contributors",
 			"order": "joinDate",
 			"members": [
 				{ "name": "Zylox" },
-				{ "name": "Josh" }
-			]
-		},
-		{
-			"id": "specialThanks",
-			"title": "Special Thanks",
-			"members": [
 				{ "name": "Project164" },
+				{ "name": "Josh" },
 				{ "name": "Brulle" }
 			]
 		}
