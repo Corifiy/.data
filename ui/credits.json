@@ -14,7 +14,6 @@
 		{
 			"id": "pastContributors",
 			"title": "Contributors",
-			"order": "joinDate",
 			"members": [
 				{ "name": "Zylox" },
 				{ "name": "Project164" },
